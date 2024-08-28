@@ -1,0 +1,2 @@
+The is a Rockbuster database set up to handle and preserve data for a company that rents out videos. It includes information on films, performers, stock, rentals, expenses, and other relevant topics.
+The Rockbuster database is a snowflake schema. The snowflake schema is arranged in the shape of a well, a snowflake. The fact table of the snowflake schema is surrounded by dimension tables, unlike the star schema which is also surrounded by sub-dimension tables. 
