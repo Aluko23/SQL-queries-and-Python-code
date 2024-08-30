@@ -1,1 +1,3 @@
-# The is a Rockbuster database set up to handle and preserve data for a company that rents out videos. It includes information on films, performers, stock, rentals, expenses, and other relevant topics.
+The Rockbuster Stealth Management Board was presented with this project. A movie rental company called Rockbuster Stealth LLC once had locations all over the world. In order to maintain its competitiveness in the face of fierce competition from streaming services like Netflix and Amazon Prime, the Rockbuster Stealth management team intends to utilise its current movie licenses to introduce an online video rental service. The data was analysed using SQL, and the board received recommendations.  
+
+The is a Rockbuster database set up to handle and preserve data for a company that rents out videos. It includes information on films, performers, stock, rentals, expenses, and other relevant topics.
